@@ -2,4 +2,4 @@
 
 Ciao a tutti, sono Roberta! 
 
-[My CV](assets/cv.pdf)
+[My CV](cv.pdf)
