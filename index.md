@@ -1,5 +1,4 @@
-![Portrait](portrait.jpg =50x)
-
+<img src="portrait.jpg" aling="center" width=250>
 
 Ciao a tutti, sono Roberta! 
 
