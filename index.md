@@ -1,4 +1,4 @@
-![Portrait](portrait.jpg)
+![Portrait](portrait.jpg =50x)
 
 
 Ciao a tutti, sono Roberta! 
