@@ -18,7 +18,7 @@ test('missing configuration fails closed', async()=>{
 });
 test('unverified user cannot reveal member interface',async()=>{
  const r=await run('member',{getUser:async()=>({data:{user:null},error:{}})});
- assert.equal(r.nodes.member.hidden,true); assert.match(r.redirects[0],/index.html$/);
+ assert.equal(r.nodes.member.hidden,true); assert.match(r.redirects[0],/signin.html$/);
 });
 test('verified identity is rendered as text and sign-out hides it',async()=>{
  const r=await run('member'); assert.equal(r.nodes.member.hidden,false);

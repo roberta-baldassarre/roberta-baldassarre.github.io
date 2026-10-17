@@ -27,7 +27,7 @@
       revision++;
       if (page === 'member') {
         hideMember();
-        if (!session) go('index.html');
+        if (!session) go('signin.html');
         else setTimeout(() => { verifyMember().catch(() => { hideMember(); message('Unable to verify your session. Reload to retry.'); }); }, 0);
       }
     });
@@ -36,7 +36,7 @@
       hideMember();
       const { data, error } = await client.auth.getUser();
       if (current !== revision) return;
-      if (error || !data.user) { go('index.html'); return; }
+      if (error || !data.user) { go('signin.html'); return; }
       document.getElementById('member-email').textContent = data.user.email || 'Member';
       member.hidden = false;
       message('Welcome back.');
@@ -58,7 +58,7 @@
         hideMember();
         const { error } = await client.auth.signOut({ scope: 'local' });
         if (error) { message('Sign-out failed. Reload the page to retry.'); event.target.disabled = false; }
-        else go('index.html');
+        else go('signin.html');
       });
       // Revalidate restored pages; never show stale member UI from the back/forward cache.
       addEventListener('pagehide', hideMember);
