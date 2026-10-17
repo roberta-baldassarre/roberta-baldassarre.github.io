@@ -1,213 +1,1053 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 9
+/Kids [ 4 0 R 10 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 16 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3600
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Airport Bingo) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 3-7 | Games on the Go) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Spot a suitcase, a plane, a window, a sign, a backpack and a trolley. Mark each square on the) Tj T* ET
+BT 1 0 0 1 42 679 Tm (printable. Play together from your seat; stay with your grown-up.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 435 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 54 544 Tm (Suitcase) Tj T* ET
+n
+144 492 m
+144 504.1503 134.1503 514 122 514 c
+109.8497 514 100 504.1503 100 492 c
+100 479.8497 109.8497 470 122 470 c
+134.1503 470 144 479.8497 144 492 c
+S
+n 107 492 m 137 492 l S
+n 212 435 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 224 544 Tm (Plane) Tj T* ET
+n
+314 492 m
+314 504.1503 304.1503 514 292 514 c
+279.8497 514 270 504.1503 270 492 c
+270 479.8497 279.8497 470 292 470 c
+304.1503 470 314 479.8497 314 492 c
+S
+n 277 492 m 307 492 l S
+n 382 435 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 394 544 Tm (Window) Tj T* ET
+n
+484 492 m
+484 504.1503 474.1503 514 462 514 c
+449.8497 514 440 504.1503 440 492 c
+440 479.8497 449.8497 470 462 470 c
+474.1503 470 484 479.8497 484 492 c
+S
+n 447 492 m 477 492 l S
+n 42 290 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 54 399 Tm (Sign) Tj T* ET
+n
+144 347 m
+144 359.1503 134.1503 369 122 369 c
+109.8497 369 100 359.1503 100 347 c
+100 334.8497 109.8497 325 122 325 c
+134.1503 325 144 334.8497 144 347 c
+S
+n 107 347 m 137 347 l S
+n 212 290 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 224 399 Tm (Backpack) Tj T* ET
+n
+314 347 m
+314 359.1503 304.1503 369 292 369 c
+279.8497 369 270 359.1503 270 347 c
+270 334.8497 279.8497 325 292 325 c
+304.1503 325 314 334.8497 314 347 c
+S
+n 277 347 m 307 347 l S
+n 382 290 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 394 399 Tm (Trolley) Tj T* ET
+n
+484 347 m
+484 359.1503 474.1503 369 462 369 c
+449.8497 369 440 359.1503 440 347 c
+440 334.8497 449.8497 325 462 325 c
+474.1503 325 484 334.8497 484 347 c
+S
+n 447 347 m 477 347 l S
+n 42 145 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 54 254 Tm (Water bottle) Tj T* ET
+n
+144 202 m
+144 214.1503 134.1503 224 122 224 c
+109.8497 224 100 214.1503 100 202 c
+100 189.8497 109.8497 180 122 180 c
+134.1503 180 144 189.8497 144 202 c
+S
+n 107 202 m 137 202 l S
+n 212 145 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 224 254 Tm (A book) Tj T* ET
+n
+314 202 m
+314 214.1503 304.1503 224 292 224 c
+279.8497 224 270 214.1503 270 202 c
+270 189.8497 279.8497 180 292 180 c
+304.1503 180 314 189.8497 314 202 c
+S
+n 277 202 m 307 202 l S
+n 382 145 162 135 re S
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 394 254 Tm (A hat) Tj T* ET
+n
+484 202 m
+484 214.1503 474.1503 224 462 224 c
+449.8497 224 440 214.1503 440 202 c
+440 189.8497 449.8497 180 462 180 c
+474.1503 180 484 189.8497 484 202 c
+S
+n 447 202 m 477 202 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (1 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(1 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 17 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Contents 18 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Contents 19 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Contents 21 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 11 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 11 0 obj
 <<
-/Contents 22 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 1384
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Restaurant I Spy) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 3-6 | Games on the Go) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Choose something everyone can see. Say "I spy something\205" and give its colour or shape. Take) Tj T* ET
+BT 1 0 0 1 42 679 Tm (turns guessing, then let the next person choose. Keep the game at your table.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 250 510 320 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw, plan or colour your adventure here.) Tj T* ET
+n 42 210 m 552 210 l S
+n 42 170 m 552 170 l S
+n 42 130 m 552 130 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (2 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(2 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 12 0 obj
 <<
-/Contents 23 0 R /MediaBox [ 0 0 595 842 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 13 0 obj
 <<
-/PageMode /UseNone /Pages 15 0 R /Type /Catalog
+/Contents 14 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 14 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20261017000748-07'00') /Creator (anonymous) /Keywords () /ModDate (D:20261017000748-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/Length 1529
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (My Little Travel Journal) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 4-9 | Print & Play) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Draw where you went, something you tasted and your favourite discovery. Write a sentence or ask a) Tj T* ET
+BT 1 0 0 1 42 679 Tm (grown-up to take dictation. Add one page each day.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 330 510 240 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw a little discovery from today.) Tj T* ET
+BT 1 0 0 1 42 295 Tm (Today we went to...) Tj T* ET
+n 42 269 m 552 269 l S
+BT 1 0 0 1 42 230 Tm (My favourite moment...) Tj T* ET
+n 42 204 m 552 204 l S
+BT 1 0 0 1 42 165 Tm (Something I want to remember...) Tj T* ET
+n 42 139 m 552 139 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (3 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(3 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 15 0 obj
 <<
-/Count 8 /Kids [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1397
+/Contents 17 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
-stream
-Gat=k9lK&]%#46I'g*4Jd8f>X,@OA>Oj,2k#)Rl)8&_MghUmuA.l@D#a-Yk#5%8G,^^-+^0LH?GG[?@\6/[gb^WS4E<<F%E,Y/*`'1c%?BPue?.8!_\/IdreMRnBn*END7.$0$*e@Zj9E_^Hc3"0N0nFQ#n2"t@Hjsq>dE-H[)(]4ENhd9_Kf=sTB*L^?ufS_C$<)"7<.B=QR[$#K:Y/f?P:2mW/=2T"nq*0!NkB!`94m5ZOre6hbMtYN8o\@:-;8Ol+;-ONYfF8M$Y^]qSbBDeALA#N6p1t`"rO:`Nepb<tBma``00B)c[f;*2BcK%#m]D.,g@5?XG52RD^L,a#Rg]"9G?=D(]5cY&mGk&oiGR,Y_)/5SN#U_i*4G>p]T05bg?CE[-iEFA4["/TC)d`^Vq54Bm8.!RPdO?A9'BGEM1;=DE.:eW3#$dLQ,ZVJ^m;)pLiT2Z!@s^".^?dGjDe=)@7j5'i2N^A'L3>SZRjb/S6m'7>bsCjNL2)hB/c(e"6Ooq`C&&5XRanmeX!<HOPc_mrMFV'T.@n<m;,djh`3XmSJ*0-!eZ?k!m`ofp_c4/+/pR`YUfi2`ZLKAN+C0065fp"&1Ui$5['k$MqP>518ttKb<h)tXA&#o>DOg1-^9D;T]P<Y0u.0AP_V_5'@O4V8r*Lh4W^U;c<#c)H-=*%niRg_,oh+SPBSSAM;h["'jK-2A"i2'6Fi&/EZ#7Rp`A&plXBiO9mJjZR%C0[6<G&hnLTn4/@<K$kit8G\kXgUj<qo.(o@WoaKhed%#.mf(rg)?N6,JS`&GM5A7./0PfL[tl.K?R0L@oDL+r^`EB+G,M5nNT.abYRUcmY2njFW>\+9sS[Q[TF?IXA.C!7:.DNmHpTF'cN$INt#]MjVef&sk(;[C!LitsK%P8(maYsQN($9<kE.3tRrRW")tOa%j^L$mqLVS;;6HQ;S"ZeK%NGf"=%'tR$=fJhu%*%=$GH/fGIl:E2i34-bHO@[[55p?Up)Lkt_W5R.m.l8''0ss`RgXCt6T%t`g_%Z6gXjC;[^pZ66dn&`F?"GiZ4\6rkL2f3_</EGEh'L4h%ub\K>Q/W0VTn@RU-uLePWZZUk^:c,V_M*X]29=mJ0lJq-aGeI:LrSU',i[7YT#Mr!HUCq/R0<sKrh)9F,3ZG!QcYI(f%Ku@B_&=0,+o"",qKsg$LO34;$O=M7pk.lC.9g(bn0JC#^$Al:G1L0XSo0OB0YX6!?i6T%iKt.@p]Io(YDBVWib\(@g=hgLMj[,/Sa@>DiO32!+6Y@X<3!)2h<e;Mo*q>[fEHc!LULpu%'\[c)?Q^&ODFZnM%e]m56I[iNJ2[kH^KC]EXlDl6Z)HGF)4]a_jm?G<Y8areB8><LW:>(g`<IW;?mPu.A`lp]JF~>endstream
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 17 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 727
+/Length 1409
 >>
 stream
-GasIebAQ&g&A7<Z#!!B7OYS+LRaf_ZP9?fT"HG)<H=<(ulrFWaP*6gJa*0toN`.2O"A?oMGBTpU[7&6*%/7C95%cjeP`Q7*"/H\Nf`Dsm,c&nGe.Bd@WPa2<(/`.LOE&?<dsadJ7'.1TVdpP!0BU?A2d(=A_&7,,o5Al/oB!qR]D-pC-aJe3mb).QPn&b0(@H<?,6R+l]&%@0?h_(Mh.HC7Oo17sAHU2iTFT)A)?/R:<ua.VqA%thGtE7F3_N1<4^U'@8*HD!qUN/05`aF_R[T?8)BFsUS_rDe)Vo$"]^<=gbmAcGO(/&Y=SEj,VJN[mRMO`%D`BEA^Zb(]2@]?VD-M34[a]FnHTK6N;,SM.fCZ\qL>%[6P6[c_?\p]"A\faJn$*h3pARQRii&;"M,hP\(`+R!K&E+T(<`aLi[LlPUCqIH7MR*`a'tpIL66Wf>Wh&#%*q$kYng"m$VR%fcO%Kui5q`*3BQXj,ZprGcgYJ:4ahhc$&=1*:EJ=\26Yf6%ONnR.P]kMUCl,'*oTC6s/IMg8%>sM_QAgl4:41Z%)th;N0Y=:4&-"#-/oZcnHUpt1sVH=5Fl7^Z:h^h;tE@0r;@kjgfM@Mg)!I$lZ,^cA&d^T8(p*WO&a?`!%0!RaUA7uj#7/n)+EDJm+oB)fX0.gNo\kAGGqHTg,4!S$hA,lg'>GiKAti(GZ_;]f=cFb^kO4@]@joWi]dQiZkLhok*I5f~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Nature Color Hunt) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 3-8 | Outdoor Adventures) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Choose three colours and find something in each colour. Look, point or photograph your finds rather) Tj T* ET
+BT 1 0 0 1 42 679 Tm (than picking them. Swap colours and try again. For younger children, find one colour together.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 250 510 320 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw, plan or colour your adventure here.) Tj T* ET
+n 42 210 m 552 210 l S
+n 42 170 m 552 170 l S
+n 42 130 m 552 130 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (4 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(4 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 18 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 766
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GasIemr-Z/&H/38idF.DQtJL(S9ull+]-R`/J@'<8_l!M5>^@BWl-"*`C\g#l@bnMG:2:[(Z.:^E-aqI(,bS9a5s^ZON?#bMCIUZ>icP2WJZB2PF?,5%W8b46AC0O+[]$%.4QZX-"/2JYOQeH5^mp@k;QpVic_m-M)Y3OGI>MqhBDoYr;Dk,Go]7a"(J?6H6-"CJGFVSAa+X)OE^E?<VY-_]>dl)!QBO:8e^+u)qRG_AGD);Y&$34]WLQ"3SH#;a`PW$gt<]k&$C!+[p/3(j$02TCZce^AeSY1p>2oZS(6G?=PG3,9(/u6qkALZh4ERq#[$^%i0qNVm9of]f[h"./25^umB4"Prdf!eeDl'_GjEP]@9BU3BH)^kG2qLsnUQn\ZPb%;Z&r4Bl'05V"J_%)#'XDuJR-bn>/o&]KfW<bk:D`b5moIe.8S"s@4`\J'dLL>\15Zs$%k%l'N))41[[=OQrF9[@3qEGHjC5sNX6Ak,.`gRo$WX@FKC*p@>HG>`jeXc/0:2,>>J9\M]60'\2!o3,8%tdJfI[.:m:@/WY.Tt0fu-\3`)qjqQQnfW?*"=Fk>3oYnuePhI/EY/0D<_[">k;M6V>$?n%:U+Kn;9)JRKjkV&g43Q\HOR5Y$a)HR/#Y0N\sA0c>JeG324Cu@cq<4i!nld!;'pcrl(Wmb+*M&6)TM3#\d_`1PF%94ZqjFbt:VV6[f[9`$CL8CZ7!0-YUlI9Mrf-QD_l!HGa9im<HP=(b*DQ%Zc'@B$D1e+S~>endstream
 endobj
 19 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 724
+/Contents 20 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
-stream
-GasIed;GF-'Rf-pcI9-pSV)nBS&_UG[teY!>$go9&N?os'*2e]Bck*JJWrp3VC6D3n2^6)HQ8'55!3*A$M^&uEQc0%Z6sV5,dK:FZA<KF'/%+SMGo.AfkdG!&E%P9LiGYQI$BouROD<mO6[OdLV#+LULJfOp$*>Wi;2DEQ/-gSp)D]JOh8+t+OXRNOj(J?WHcefBtIm8E*_qu#!\-^qcAXSa.(FAB=2k6OtR#hE-LY,26!]9cd):Mm;'raH^UnL^+S]^Fm+_&3TT8_fX.l3K;XkbD-a]T./apXLU27\DIHZ!p$N0B](@#Aj.WE`HJ@(>JMTG"lkYTJ$J2rZ6)VOd='1MNRIBuA`2FLo:\O;#:=l"E\$ko;\($J-poS=n(Zg+p3.Eg\Xo7l)+?Qapc=ZI39!hD%9URk3"W1OTdWkO.EL\3p.?W!$-)se03+bgW,o"ru@H&RbGduq!MBsL`AQ[)3I3J6@?71e#Ab<4q6I81)Sc2AFPC.n-$Q$\D-]];n:Fe62K1]+Ap?6KfeUU;fB6\AfheK7:%+e[D\CU2G,=&/[^_hoa6/d4(,a!j--L?^CdLWA=OJZrU4]*^&1f#%<3/J1P4%0c='/q#Ud$K'A*Ape44'YQ8T=a1+"\o8HZl)U[O5DsCa^F[gDpL*,5\>5#K!R\:E`Lq[Y,-5%qs<6r'7/papMVcsXR+ToM,n`ZV--Q1,lLZ/fhOqb!?DCs?2~>endstream
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 727
+/Length 1395
 >>
 stream
-GasIebAQ&g&A7<Zk#A]V_MAn?;Fe2fM?5D>Uq5VXaL&$L0@4eL#Q=F\PjA`CJjM0!45-5GM*k4;rh=Ba>Mr/*RsPLb:i&EXi@%a:.hY/`cR9$,,0^kJWND?9_*HK%_5;O>dYXDK8Dd=PppaM%G^Los#9V`/]imVY"26tU/W75:."7lb4S@RdB4-!mbW&I<Es`gGDneMFXTr@@4q*'`qq"O65MDK`4Nkn6_64UQ?r];?)#VaqNI=5SCL#pE2W"2Q"r_i$lN-r"qpOa16^1PoY)gnN\#HtH06Qr^/!N,4Fm4i2\@)1s/%3#Gn3tusZFAO*e;cp#E6%s+%5Nt_/qj*P:YthmK2/oTK`YiA4e'am+g16.d$p+;X<C]?ZMh&?4q-*>_C!j+:`c.1XN53-&Xd/rJ-_EP3<SdZ'bZSb&rL2I-%]]WQT<b:WAGn/-923oA"_8(:M@D-M+BYsKSu5g4TF"EP/(!C0iE%n]/3't,#>^qShkeJK7ln8Uo-n8-CrK4W"(!b0kq8=m\:BW9$Zq)eGn5O;DVQM3T3l5B-%8,/j,LF@k"MLkh1;>H7pL]\BfY$_+,.B)dHfbFGJ_Im$mu^E=0m#^T]MCdq5()cLj!,*&0o!3E2SY3`enZ$_34G,Vu#LR_EjoZ;K\od3lH<12[o0>6K0D?#r>Jg>:Cm:TuVN3I!1a4pK!b/[2@0%iorMaMK$>Xqp1T_Z)Qn=XB6GpTZ&/~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (DIY Paper Puppets) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 4-8 | Little Makers) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Fold a strip of scrap paper into a standing zigzag character. Draw a face and decorate it. Make two) Tj T* ET
+BT 1 0 0 1 42 679 Tm (characters, choose names and invent a tiny adventure. A grown-up handles any cutting.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 250 510 320 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw, plan or colour your adventure here.) Tj T* ET
+n 42 210 m 552 210 l S
+n 42 170 m 552 170 l S
+n 42 130 m 552 130 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (5 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(5 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 21 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 794
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GasIe9lHOU&A@ZchPjl9&<&=Jos@<>?FEIjE9YaN09?6A!?8CDIs_J'>?YT<+^jHSoDAg-J\e+>fk4Ij2[QY%1,'fl*\;74,Wjd-Nm"/IZN.-]]K!ck[^fluHn`lIq"&eufh<F]OAqCmporKsH+Zq9HO?qGYhT/m45<$VD3MSm87%C*RVT+AEqo1Ga9+AIRo;#aH)"AC+DJ7KNig='W@FJ4V.op?AH1'@9?XfhFU*@1i>:pCI:c02D>(!!T%LZi3EOa>/8Y!'oi"4$4fa+d,:gCU]]upNk3!DhKB`9=a_>$^)q,VeHIM'ejTj?1\ns@hZl6<sTUH:;d:tgBRUb*_QR0`*8pE%$dr1>UC&j)T'W*g7Wt#:Fl.X*OX&k:`crJV50U,R<Q$[@lC(tfi.[]B8;Vtn21jr7O45j=DVTD&d<->c'+ll[U)Uo)jf$n1]#":\gn"@"WP*5Z);('Fh1Gi1R_n%'oE9R`2=%"*jICSoW6K7O)__='0,CE7($;fJ*niSl'AH9R-'LZ7u$+'*M&ROB.@;++4NrKfPaiKZ,2N$S&mT^kZhsu_Ei`YIs4A%RLb^*1Ma_</]-?Tl)fVlZC#8BmW&BPZ)Q-rsa;7+3:PVXqg\+'0cq'45gpH?mV4Is11XLGb;L:c]&MI?#<(NRJ!LIsG!2^V<pa.X94@m'DVThP@3Sg6g"d9-sC$d@0O)*c#dJnLKpVO;X:VYMM.Td'AqBf3H!FchV=AX_n;>1[AVU;b(%YBmW+Fb+s4/h[#/6R(`,&k(]a9h>;WBXJJuDdN',rV~>endstream
 endobj
 22 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 782
+/Contents 23 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
-stream
-GasIed;I\]'Rf^WS>U(j2@::QrKqHh1au@ueh;BG%S=@RG%K,lOnS=W@(UQZ6rO`qEo<O9!p:cCkp,2oXFW#.0!5>17'VGB9VGSIZ:LA(<%8TLe3)&2%D,mY1F**a)0/tXW#2M!KV=X)`r":!`Q`O&>Z5TmokO:1n*p#4E`lXr5k,f4a"d>J.YZ(KA#`XSRT#-c\Scb$g2>C"WbZDJ4JM&>a+*?lIfr@Wad,$?6[bi>J$A@@`fn.0hB(S&bn:i'NeuXSHU-=FlmqQ!%Wtu;b2*=o^>7Ed9u>dL4H=I"<9"k!#PcT1&"dh).dt`-fMn]V'O'"hn*SC4aa"=BNuE>E)'g3V-e)/R1Yg\sLWZB,!na2\]t8(7LJX^hbpLZfX`rSTm:kV5X:3RWO]mD%N2O2hUPI2#2r>:"6dd5`VKB6RFc8*$fg6S\/^+c:HpIiHhdrOm@RR_^6^?i<$"4Bias9HE):lJHQqTu@n0X``5/KV&9>[X*9Q$&K7bOFE3n5t=,N+HR!EY\WiDD'&l7pFn\1qU6NStP37%/,t3MbZu*2/SL6o8,j:=tOa<3)F&m,XR/eX,[0l]*dUYd:5[8*:W7>mEl,17W8#S**2)EfgUsHAM9IbW-F:Ma0_EZaJ-?K]'_`_5GqqRb5,2_'TqMYZi=@pJnQ;%ifE87XJ+HqTa42BLOt=%+5&s0B4o4pmGn?*K#OtV#i`Y8F.bk"8,Nt5>qO2D-&`4L6W/&crg<9-Zu(n6`4b$fEZ%I>1<GFZGfe_d'].`<[.>Iagt4%~>endstream
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 23 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 762
+/Length 1499
 >>
 stream
-GasIe_/c#!'YO#PHg7u/KHQ@-kfmt-?CXU,jjKoUAX`l8,F#^^o],foCmT=.kqIqff%SX]<b=nd@UZ?Ai,aaU>6^Cfgk,'`UKlcTN+/+EN,ce88;\Cbf']9J8AUJ)8<<?KAOgI+65$,2nU@l6\\9`?HRc2fYZcLr4+(2g/BaLn."@ofGiW2eAk3<5R.3.c>uRu#\Q3i3i`_>OX1K;3?7Vr@^N/[*##cDXQ9.6[?P`Ej<UF%dEMoD8*WD@o&Jp-,`:DT):`*Bd1sg+.7Qd-30HFme@&Q"&>@[U?Vfqn<<,YL;6*GTO;0U=4Di^oEg/uhE\@1Z&G;,uhb,U=W1dH2Q[r'21fH>V0>i"dVPa\*j\@pGhEi=)XBl.A#:Ys$rm;5"J%u&l/a%!OET";W#q[pEo"HA[icnF+5L=hOCKGUGT`\SjEaCHb'@Z`$@OWpZR$&S?,LuAnfO[q88!(S!.4A"O$.QIWq;irF8C05^]O[s^jJrA"HUA.+FNRt/(:uu_dG:(Bn%6FJ[3[a_'HOFK'd8(L*M`U.oaW3br6Iim3S>lnY\X_Wp.GaBrb%J5Knq]r,S9.ZUOWcDEQ6ri)cr2,k87WLNP"BtnJkseb=h$`SW6V<<16$Rf)#^*c0=mqITs<3McTfRZ0!.]g`)N;p0R89'ga1.hE&PO&S)G3ijGdZ:9dUr#3e5NBZm.(85+`S=2'Z;\)I)ODLIo0mF=J+kGfP7Lf[^bLg;U7.>L<3/q;SbT:4F5YCaPn6'Wj"T~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Beach Treasure Collection) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 3-8 | Outdoor Adventures) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Make a collection of discoveries by spotting a smooth stone, a pattern, seaweed and three colours.) Tj T* ET
+BT 1 0 0 1 42 679 Tm (Point, draw or photograph them. Leave shells, wildlife and natural objects where they belong; stay) Tj T* ET
+BT 1 0 0 1 42 663 Tm (away from the water's edge with your grown-up.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 250 510 320 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw, plan or colour your adventure here.) Tj T* ET
+n 42 210 m 552 210 l S
+n 42 170 m 552 170 l S
+n 42 130 m 552 130 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (6 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(6 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 1550
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Postcards From My Trip) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 4-10 | Print & Play) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Draw one little moment from today on the postcard front. On the back, write or dictate a message to) Tj T* ET
+BT 1 0 0 1 42 679 Tm (someone you miss. Save it in your notebook or send it after your trip.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 330 510 240 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw a little discovery from today.) Tj T* ET
+BT 1 0 0 1 42 295 Tm (Today we went to...) Tj T* ET
+n 42 269 m 552 269 l S
+BT 1 0 0 1 42 230 Tm (My favourite moment...) Tj T* ET
+n 42 204 m 552 204 l S
+BT 1 0 0 1 42 165 Tm (Something I want to remember...) Tj T* ET
+n 42 139 m 552 139 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (7 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(7 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 30 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 1422
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.184314 .25098 .184314 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 798 Tm (LA TROTTOLA / PLAY & CREATE) Tj T* ET
+BT /F3 29 Tf 34.8 TL ET
+BT 1 0 0 1 42 751 Tm (Rainy Day Mini Theater) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 42 727 Tm (Ages 4-9 | Little Makers) Tj T* ET
+BT 1 0 0 1 42 695 Tm (Turn a small empty box on its side for a stage, or fold paper into a backdrop. Draw two characters and) Tj T* ET
+BT 1 0 0 1 42 679 Tm (a setting. Tell a three-scene story: a surprise, a problem and a happy ending. Let everyone take a turn.) Tj T* ET
+.537255 .580392 .392157 RG
+1 w
+n
+523 794 m
+523 800.6274 517.6274 806 511 806 c
+504.3726 806 499 800.6274 499 794 c
+499 787.3726 504.3726 782 511 782 c
+517.6274 782 523 787.3726 523 794 c
+S
+n 528 794 m 535 794 l S
+n 494 794 m 487 794 l S
+n 511 811 m 511 818 l S
+n 511 777 m 511 770 l S
+n 42 250 510 320 re S
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 55 545 Tm (Draw, plan or colour your adventure here.) Tj T* ET
+n 42 210 m 552 210 l S
+n 42 170 m 552 170 l S
+n 42 130 m 552 130 l S
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 35 Tm (Play together. Take only memories. Leave nature where you find it.) Tj T* ET
+BT 1 0 0 1 534.486 35 Tm (8 / 8) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+515 27 45 18 re
+f*
+0.160784 0.235294 0.313725 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 534.486 35 Tm
+(8 \057 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font 33 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1510
+>>
+stream
+Gatm;>Ar7S'Roe[30.9F.,m\)m9rPjU_oOY7A=3$_([PUD0(h-:SR.nk`=W[7C(@[?%LW7/Gej@^2kSh+N?Y*^8i%-9aPI!":0^%$%tegat'tM(D07!/E[RAQI#]*N3J6fd'"3[KE@"$#Rpi+,saJfO;0d?/c9R1%ctrX=^L.J%'G%4bGu"qJ,\lqk4V:ns+0`@O?L3d^mml[NY'Va7PteN&&JXpdK!Zm.\Y/;V/C#ZcmWBB$'d2#"97Nn#(S[O=EMJ'b+4[dPoP>S"?U2GYa3N<^-Db%lF$mU^;+k=@JG$sH3nm()mPMgLsG"[HEl)XA#ErDd\:[bDN3k>="f0&f-'MSec8;"Zi-oX#X7s&(dNsn%86$];Y=n5O5Q'bJltb!W6/q=#6b%DC9)+F$cpYg1'hOCaPf+?S2h_"L/&\$Ke]loi.HcX;T#1)!H\jQAh0R=ZBfViO7P;.k%]X]-mqmgCm7ka385^1pYnI_EmlOopQW3^M(b6W(fMBSOKV,6MmX2"mck'_4k]d\D2`@n"tV2YVlnHrLY:O%^h@DXoZE0MJDYVdV`\A5MjP2-6j9n=lbbIODVd!,N*HPnc_1M71>mEfNMCK.=2d^60Aa?Fgi6_O+ikS`_TlEQG&]J/Oq`bCi3lo;N4SCoqISpT-apf(H?Psr,km6=P#!;N[s\M(?n;O6>c@=u4';SD;kX81Zk5dE?>o_?dU:ESEK0BeY.%pNZ<g+!7s`0)*,@eZP&@m<R/o3LFU"/+_Ig08S>$Eob-2:j!YXKo%<.VC''Ye^0bTP&oX@1HH'DkPMXW=kY.fq7_9:<85"g=tg":O2NT7,_:>,E$cV=h6A%=EK;8$/8:$C%,bAJ^(g9iY1TqdUnW)(!Y)8VRPTBuJXM%/65Z]h\92Vd^,EaH[L1Y9K7Yq+`-jO!BLek@LS*X;g_`pT^<r)1ca<)ei]5rG5e1Y$^90Vo$j?!s;kgNc.r2UWu3BmdU9m#6Y=Z1(_jL:,3nmFRP^S0t`-:R*UTmR?ef\@Z/-/K9')\dCJ^FiFKaeuFYd[pJDdmcAun"['Bd,%)pJ[oUD!4A?-fCoe=/V3@*&<$P2Z]&Yj\]1JO<GOb65,tM/6g,^;/DSa^nRM=-F<>oAUdfQ!l/1@)_SG6a)i$=3tB-`SfR=P6eH7Y+_"hoUSP'T:d7%Qu`,s)C-5ep<$j9Q8h0u1,ra]akRi*hfRGY'ZCQghNc+5sc\BPeBd334/3Dc1Mq%`0V*n9B2&,bQoa@_V3F?rt(7Aop-l.%^?f*k7fg_ll=<j#qq5BT@.,VgQd^d#fDSd;mJ+=Z5gmoN6R^7t-aaqY/6V4"4tV]N(T@6&mmRgAmt55JuC9q`-^u$!+:\n*d#r,@9CNcX"k4[9Uj\@e]^$i6O8!*fTO]\DK+VQiW.^RU<gYh'#TSa5SLsriks'ko>FYTJh/r^-7J]eV]XWKM`XLs.,AnDpH+:i;Dg#('ahGe9b?cX%#S)4.%^Lj3,p!=FopS`JbHGrrJ":A%)~>
+endstream
+endobj
+33 0 obj
+<<
+/F1 34 0 R
+/F2 35 0 R
+/F3 36 0 R
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 24
+0 37
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000440 00000 n 
-0000000635 00000 n 
-0000000830 00000 n 
-0000001025 00000 n 
-0000001220 00000 n 
-0000001415 00000 n 
-0000001611 00000 n 
-0000001807 00000 n 
-0000002003 00000 n 
-0000002073 00000 n 
-0000002335 00000 n 
-0000002440 00000 n 
-0000003929 00000 n 
-0000004747 00000 n 
-0000005604 00000 n 
-0000006419 00000 n 
-0000007237 00000 n 
-0000008122 00000 n 
-0000008995 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000461 00000 n 
+0000004113 00000 n 
+0000004220 00000 n 
+0000004327 00000 n 
+0000004439 00000 n 
+0000004548 00000 n 
+0000004794 00000 n 
+0000006231 00000 n 
+0000006339 00000 n 
+0000006585 00000 n 
+0000008167 00000 n 
+0000008275 00000 n 
+0000008521 00000 n 
+0000009983 00000 n 
+0000010091 00000 n 
+0000010337 00000 n 
+0000011785 00000 n 
+0000011893 00000 n 
+0000012139 00000 n 
+0000013691 00000 n 
+0000013799 00000 n 
+0000014045 00000 n 
+0000015648 00000 n 
+0000015756 00000 n 
+0000016002 00000 n 
+0000017477 00000 n 
+0000017585 00000 n 
+0000017777 00000 n 
+0000019380 00000 n 
+0000019435 00000 n 
+0000019543 00000 n 
+0000019656 00000 n 
 trailer
 <<
-/ID 
-[<118d61b79e331712526330deff2a063d><118d61b79e331712526330deff2a063d>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 14 0 R
-/Root 13 0 R
-/Size 24
+/Size 37
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-9848
+19766
 %%EOF
