@@ -40,6 +40,7 @@
       document.getElementById('member-email').textContent = data.user.email || 'Member';
       member.hidden = false;
       message('Welcome back.');
+      if (typeof window.dispatchEvent === 'function' && typeof CustomEvent === 'function') window.dispatchEvent(new CustomEvent('trottola-member-ready', { detail: { client, userId: data.user.id } }));
     }
     if (page === 'callback') {
       const url = new URL(location.href);

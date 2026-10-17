@@ -87,3 +87,6 @@ version, license, checksum and behavior tests together. No build pipeline is nee
 References: [PKCE](https://supabase.com/docs/guides/auth/sessions/pkce-flow),
 [Google](https://supabase.com/docs/guides/auth/social-login/auth-google),
 [RLS](https://supabase.com/docs/guides/database/postgres/row-level-security).
+
+## Saved plans
+Apply `supabase/migrations/202610180001_member_plans.sql` to enable private account backups. The member page provides explicit backup and restore actions; normal planner edits stay in local storage. Backups exclude auth credentials and contain only allowlisted planner keys. Verify anonymous denial and isolation between two users before enabling this for launch. Restore replaces planner keys on the device and does not provide live multi-device sync.
