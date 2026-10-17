@@ -90,3 +90,6 @@ References: [PKCE](https://supabase.com/docs/guides/auth/sessions/pkce-flow),
 
 ## Saved plans
 Apply `supabase/migrations/202610180001_member_plans.sql` to enable private account backups. The member page provides explicit backup and restore actions; normal planner edits stay in local storage. Backups exclude auth credentials and contain only allowlisted planner keys. Verify anonymous denial and isolation between two users before enabling this for launch. Restore replaces planner keys on the device and does not provide live multi-device sync.
+
+## Community discoveries activation
+Apply `supabase/migrations/202610180003_community.sql` after review. Insert the trusted moderator's auth UUID into `public.community_moderators` through the SQL Editor; users cannot grant themselves this role. No moderator is seeded in the migration. Enable only after testing with two separate users and an anonymous session: pending posts private, published feed public, one vote per user/post, private saves, edits return to pending, authors cannot approve, reporters cannot read other reports. Test moderator approval and unpublishing. Shopping, photo uploads and comments are intentionally deferred. Community is unavailable until migration is applied; no demo posts or fake votes are shown. Configure provider signup abuse protection before public promotion.
