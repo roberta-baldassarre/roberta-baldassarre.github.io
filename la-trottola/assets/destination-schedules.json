@@ -1,0 +1,382 @@
+{
+  "monterey": {
+    "name": "Monterey",
+    "slots": [
+      [
+        {
+          "name": "Ad Astra Bread Co.",
+          "url": "https://www.adastrabread.com/",
+          "note": "Bakery breakfast from Roby’s guide.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Alta Bakery",
+          "url": "https://www.altamonterey.com/",
+          "note": "Alternative bakery; allow for a queue.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Monterey Bay Aquarium",
+          "url": "https://www.montereybayaquarium.org/",
+          "note": "Book tickets. Outside food is restricted; plan lunch elsewhere.",
+          "rating": 4.6,
+          "review": "https://www.tripadvisor.com/Attraction_Review-g32737-d104804-Reviews-Monterey_Bay_Aquarium-Monterey_Monterey_County_California.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "name": "Waterfront stroll",
+          "url": "https://www.seemonterey.com/",
+          "note": "A flexible outdoor alternative; choose a short route.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Picnic outside the aquarium",
+          "url": "https://www.montereybayaquarium.org/visit/visitor-faqs",
+          "note": "Bring sandwiches; do not assume outside food is permitted inside.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Hotel / quiet rest",
+          "url": "",
+          "note": "Return to your accommodation or take a quiet break.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Waterfront discoveries",
+          "url": "https://www.seemonterey.com/",
+          "note": "Look for wildlife from a safe distance; keep this short if everyone is tired.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Monterey Bay Aquarium",
+          "url": "https://www.montereybayaquarium.org/",
+          "note": "Book tickets. Outside food is restricted; plan lunch elsewhere.",
+          "rating": 4.6,
+          "review": "https://www.tripadvisor.com/Attraction_Review-g32737-d104804-Reviews-Monterey_Bay_Aquarium-Monterey_Monterey_County_California.html",
+          "checked": "2026-10-17"
+        }
+      ],
+      [
+        {
+          "name": "Bakery snack",
+          "url": "https://www.adastrabread.com/",
+          "note": "Check opening times; pack a backup snack.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Cella",
+          "url": "https://www.cellarestaurant.com/",
+          "note": "Roby’s dinner stop; request outdoor seating and check the menu for your child.",
+          "rating": 4.7,
+          "review": "https://www.opentable.com/r/cella-monterey?lang=en-us",
+          "checked": "2026-10-17"
+        }
+      ]
+    ]
+  },
+  "calistoga": {
+    "name": "Calistoga",
+    "slots": [
+      [
+        {
+          "name": "Sarmentine",
+          "url": "https://www.sarmentine.com/",
+          "note": "Check the Calistoga location’s opening hours.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Petrified Forest",
+          "url": "https://www.petrifiedforest.org/",
+          "note": "Short nature outing; check paths and accessibility.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Old Faithful Geyser",
+          "url": "https://oldfaithfulgeyser.com/",
+          "note": "Geyser and animal-farm option; confirm opening details.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Calistoga Inn",
+          "url": "https://www.calistogainn.com/",
+          "note": "Restaurant lunch from the guide; check menu and seating.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Hotel / quiet rest",
+          "url": "",
+          "note": "Build in a rest or nap before another outing.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Pool time at your hotel",
+          "url": "",
+          "note": "Only if available with your stay; confirm access and supervise children.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Old Faithful Geyser",
+          "url": "https://oldfaithfulgeyser.com/",
+          "note": "Alternative to pool time if you have enough energy.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Calistoga Roastery",
+          "url": "https://calistogaroastery.com/",
+          "note": "Check opening times or bring your own snack.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Lovina",
+          "url": "https://www.lovinacalistoga.com/",
+          "note": "Outdoor seating; reserve and confirm arrangements for children.",
+          "rating": 4.5,
+          "review": "https://www.tripadvisor.com/Restaurant_Review-g32143-d3875551-Reviews-Lovina-Calistoga_Napa_Valley_California.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "name": "TRUSS",
+          "url": "https://www.fourseasons.com/napavalley/dining/restaurants/truss/",
+          "note": "Alternative dining option; confirm reservations and family arrangements.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ]
+    ]
+  },
+  "santa-rosa": {
+    "name": "Santa Rosa",
+    "slots": [
+      [
+        {
+          "name": "Grossman’s Noshery",
+          "url": "https://grossmanssr.com/",
+          "note": "Check breakfast service and menu for your date.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Children’s Museum of Sonoma County",
+          "url": "https://www.cmosc.org/visit/",
+          "note": "Hands-on museum option; check tickets and opening days.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Charles M. Schulz Museum",
+          "url": "https://schulzmuseum.org/",
+          "note": "Alternative museum for Peanuts fans.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Grossman’s Noshery",
+          "url": "https://grossmanssr.com/",
+          "note": "An existing guide pick; choose a lunch that suits your family.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Hotel / quiet rest",
+          "url": "",
+          "note": "Leave room for a nap or quiet time.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Snoopy’s Home Ice",
+          "url": "https://www.snoopyshomeice.com/visit-us",
+          "note": "Check public sessions, child suitability and equipment.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "Charles M. Schulz Museum",
+          "url": "https://schulzmuseum.org/",
+          "note": "Museum alternative; avoid packing in every attraction.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Packed snack break",
+          "url": "",
+          "note": "Water, fruit and a familiar snack.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Bird & The Bottle",
+          "url": "https://www.birdandthebottle.com/",
+          "note": "Food-focused dinner from Roby’s guide; check menu and reserve.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        },
+        {
+          "name": "The Spinster Sisters",
+          "url": "https://thespinstersisters.com/",
+          "note": "Alternative dinner from the guide; confirm current service.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ]
+    ]
+  },
+  "glen-ellen": {
+    "name": "Glen Ellen",
+    "slots": [
+      [
+        {
+          "name": "Les Pascals",
+          "url": "https://www.lespascalspatisserie.com/",
+          "note": "Pastries, sandwiches and patio seating; check opening days.",
+          "rating": 4.7,
+          "review": "https://www.tripadvisor.com/Restaurant_Review-g32429-d13808328-Reviews-Les_Pascals-Glen_Ellen_Sonoma_County_California.html",
+          "checked": "2026-10-17"
+        }
+      ],
+      [
+        {
+          "name": "Jack London State Historic Park",
+          "url": "https://jacklondonpark.com/",
+          "note": "Choose museum and ranch stops around your family’s energy.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Bakery picnic",
+          "url": "https://www.lespascalspatisserie.com/",
+          "note": "Pick up sandwiches at breakfast; keep perishables cool.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Quiet picnic pause",
+          "url": "",
+          "note": "A flexible rest rather than another scheduled activity.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Jack London park: short walk",
+          "url": "https://jacklondonpark.com/",
+          "note": "Use the park map; Wolf House is optional and paths vary.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Les Pascals",
+          "url": "https://www.lespascalspatisserie.com/",
+          "note": "Pastries, sandwiches and patio seating; check opening days.",
+          "rating": 4.7,
+          "review": "https://www.tripadvisor.com/Restaurant_Review-g32429-d13808328-Reviews-Les_Pascals-Glen_Ellen_Sonoma_County_California.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "name": "Packed snack break",
+          "url": "",
+          "note": "Bring water and a backup snack for the drive.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ],
+      [
+        {
+          "name": "Dinner at home / your accommodation",
+          "url": "",
+          "note": "Leave the evening flexible after the drive.",
+          "rating": null,
+          "review": null,
+          "checked": null
+        }
+      ]
+    ]
+  }
+}
