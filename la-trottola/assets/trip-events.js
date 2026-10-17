@@ -51,7 +51,7 @@
     document.querySelector('#trip-event-google').href = url.href;
     sync.hidden = false;
     form.hidden = true;
-    yearInput.value = Math.min(2099, start.getUTCFullYear());
+    yearInput.value = Math.min(2098, start.getUTCFullYear());
     renderYear();
     status.textContent = 'Event saved from ' + eventData.start + ' through ' + eventData.end + '.' + (reminder ? ' Email reminder requested: choose an email notification in your calendar after adding it. No reminder email has been scheduled by this page.' : ' No email reminder requested.');
   });

@@ -38,9 +38,9 @@ const months = ['January','February','March','April','May','June','July','August
 yearInput.value = new Date().getFullYear();
 function renderYear() {
   const year = Number(yearInput.value);
-  if (!Number.isInteger(year) || year < 1900 || year > 2099) { yearInput.reportValidity(); return; }
+  if (!Number.isInteger(year) || year < 1900 || year > 2098) { yearInput.reportValidity(); return; }
   calendar.replaceChildren();
-  for (let displayedYear = year; displayedYear < year + 2; displayedYear++) {
+  for (let displayedYear = year; displayedYear < year + 3; displayedYear++) {
     const yearColumn = document.createElement('section');
     yearColumn.className = 'calendar-year-column';
     const yearHeading = document.createElement('h2');

@@ -56,7 +56,7 @@ function religiousHolidays(year) {
   return result;
 }
 function religiousStatus(message='') {
-  document.querySelector('#religious-status').textContent=(religiousChoices.size ? 'Added: '+[...religiousChoices].map(c=>traditionNames[c]).join(', ')+'.' : 'Choose a tradition to add its main holidays across both years.')+' '+message;
+  document.querySelector('#religious-status').textContent=(religiousChoices.size ? 'Added: '+[...religiousChoices].map(c=>traditionNames[c]).join(', ')+'.' : 'Choose a tradition to add its main holidays across all three years.')+' '+message;
 }
 function saveReligiousChoices() {
   religiousCache.clear();
