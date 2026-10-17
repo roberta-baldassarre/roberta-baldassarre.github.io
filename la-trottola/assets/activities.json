@@ -1,0 +1,146 @@
+[
+  {
+    "id": "activity-0",
+    "title": "Airport Bingo",
+    "min": 3,
+    "max": 7,
+    "category": "Games on the Go",
+    "settings": [
+      "Airport",
+      "Airplane"
+    ],
+    "prep": "None",
+    "material": "Printable",
+    "instructions": "Spot a suitcase, a plane, a window, a sign, a backpack and a trolley. Mark each square on the printable. Play together from your seat; stay with your grown-up.",
+    "supplies": [
+      "Printed activity sheet",
+      "Pencil"
+    ]
+  },
+  {
+    "id": "activity-1",
+    "title": "Restaurant I Spy",
+    "min": 3,
+    "max": 6,
+    "category": "Games on the Go",
+    "settings": [
+      "Restaurant",
+      "Hotel"
+    ],
+    "prep": "None",
+    "material": "No supplies",
+    "instructions": "Choose something everyone can see. Say \u201cI spy something\u2026\u201d and give its colour or shape. Take turns guessing, then let the next person choose. Keep the game at your table.",
+    "supplies": []
+  },
+  {
+    "id": "activity-2",
+    "title": "My Little Travel Journal",
+    "min": 4,
+    "max": 9,
+    "category": "Print & Play",
+    "settings": [
+      "Airplane",
+      "Car",
+      "Hotel",
+      "Rainy day"
+    ],
+    "prep": "5 minutes",
+    "material": "Printable",
+    "instructions": "Draw where you went, something you tasted and your favourite discovery. Write a sentence or ask a grown-up to take dictation. Add one page each day.",
+    "supplies": [
+      "Printed activity sheet",
+      "Crayons",
+      "Pencil"
+    ]
+  },
+  {
+    "id": "activity-3",
+    "title": "Nature Color Hunt",
+    "min": 3,
+    "max": 8,
+    "category": "Outdoor Adventures",
+    "settings": [
+      "Outdoors",
+      "Beach"
+    ],
+    "prep": "None",
+    "material": "No supplies",
+    "instructions": "Choose three colours and find something in each colour. Look, point or photograph your finds rather than picking them. Swap colours and try again. For younger children, find one colour together.",
+    "supplies": []
+  },
+  {
+    "id": "activity-4",
+    "title": "DIY Paper Puppets",
+    "min": 4,
+    "max": 8,
+    "category": "Little Makers",
+    "settings": [
+      "Hotel",
+      "Rainy day"
+    ],
+    "prep": "5 minutes",
+    "material": "Basic craft kit",
+    "instructions": "Fold a strip of scrap paper into a standing zigzag character. Draw a face and decorate it. Make two characters, choose names and invent a tiny adventure. A grown-up handles any cutting.",
+    "supplies": [
+      "Scrap paper",
+      "Crayons",
+      "Tape",
+      "Child scissors"
+    ]
+  },
+  {
+    "id": "activity-5",
+    "title": "Beach Treasure Collection",
+    "min": 3,
+    "max": 8,
+    "category": "Outdoor Adventures",
+    "settings": [
+      "Beach",
+      "Outdoors"
+    ],
+    "prep": "None",
+    "material": "No supplies",
+    "instructions": "Make a collection of discoveries by spotting a smooth stone, a pattern, seaweed and three colours. Point, draw or photograph them. Leave shells, wildlife and natural objects where they belong; stay away from the water\u2019s edge with your grown-up.",
+    "supplies": []
+  },
+  {
+    "id": "activity-6",
+    "title": "Postcards From My Trip",
+    "min": 4,
+    "max": 10,
+    "category": "Print & Play",
+    "settings": [
+      "Hotel",
+      "Restaurant",
+      "Rainy day",
+      "Car"
+    ],
+    "prep": "5 minutes",
+    "material": "Printable",
+    "instructions": "Draw one little moment from today on the postcard front. On the back, write or dictate a message to someone you miss. Save it in your notebook or send it after your trip.",
+    "supplies": [
+      "Printed activity sheet",
+      "Crayons",
+      "Pencil"
+    ]
+  },
+  {
+    "id": "activity-7",
+    "title": "Rainy Day Mini Theater",
+    "min": 4,
+    "max": 9,
+    "category": "Little Makers",
+    "settings": [
+      "Hotel",
+      "Rainy day"
+    ],
+    "prep": "15 minutes",
+    "material": "Basic craft kit",
+    "instructions": "Turn a small empty box on its side for a stage, or fold paper into a backdrop. Draw two characters and a setting. Tell a three-scene story: a surprise, a problem and a happy ending. Let everyone take a turn.",
+    "supplies": [
+      "Recycled box or paper",
+      "Crayons",
+      "Tape"
+    ]
+  }
+]
